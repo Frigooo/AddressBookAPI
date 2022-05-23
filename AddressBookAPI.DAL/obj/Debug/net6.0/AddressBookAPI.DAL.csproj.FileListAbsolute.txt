@@ -1,0 +1,12 @@
+C:\Users\lucia\source\repos\AddressBookAPI\AddressBookAPI.DAL\bin\Debug\net6.0\AddressBookAPI.DAL.deps.json
+C:\Users\lucia\source\repos\AddressBookAPI\AddressBookAPI.DAL\bin\Debug\net6.0\AddressBookAPI.DAL.dll
+C:\Users\lucia\source\repos\AddressBookAPI\AddressBookAPI.DAL\bin\Debug\net6.0\AddressBookAPI.DAL.pdb
+C:\Users\lucia\source\repos\AddressBookAPI\AddressBookAPI.DAL\obj\Debug\net6.0\AddressBookAPI.DAL.csproj.AssemblyReference.cache
+C:\Users\lucia\source\repos\AddressBookAPI\AddressBookAPI.DAL\obj\Debug\net6.0\AddressBookAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\repos\AddressBookAPI\AddressBookAPI.DAL\obj\Debug\net6.0\AddressBookAPI.DAL.AssemblyInfoInputs.cache
+C:\Users\lucia\source\repos\AddressBookAPI\AddressBookAPI.DAL\obj\Debug\net6.0\AddressBookAPI.DAL.AssemblyInfo.cs
+C:\Users\lucia\source\repos\AddressBookAPI\AddressBookAPI.DAL\obj\Debug\net6.0\AddressBookAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\AddressBookAPI\AddressBookAPI.DAL\obj\Debug\net6.0\AddressBookAPI.DAL.dll
+C:\Users\lucia\source\repos\AddressBookAPI\AddressBookAPI.DAL\obj\Debug\net6.0\refint\AddressBookAPI.DAL.dll
+C:\Users\lucia\source\repos\AddressBookAPI\AddressBookAPI.DAL\obj\Debug\net6.0\AddressBookAPI.DAL.pdb
+C:\Users\lucia\source\repos\AddressBookAPI\AddressBookAPI.DAL\obj\Debug\net6.0\ref\AddressBookAPI.DAL.dll
